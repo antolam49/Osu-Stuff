@@ -1,0 +1,1729 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,Centre,"THE 1000TH SUMMER - BAD END -.jpg",320,240
+ F,0,0,1100500,0
+ S,0,0,1100500,0.44
+Sprite,Background,Centre,"sb\Capas\White.png",320,240
+ S,0,43238,,1.450207
+ F,0,43238,45847,0,1
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,2,,1.6
+ F,0,187369,188021,0,1
+ F,0,208238,208564,1,0
+Sprite,Foreground,Centre,"SB\Capas\nico nico douga.png",320,240
+ M,0,40630,,320,240
+ F,0,40630,43238,0,1
+ S,0,40630,45847,0.9,1
+ F,0,43238,44543,1
+ F,0,45148,45521,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\001 Imagem.jpg",320,240
+ M,0,3065,,320,240
+ F,0,3065,4065,0,1
+ S,0,3065,19065,0.6,0.5
+ R,0,3065,19065,-0.01,0.06
+ F,0,4065,17815,1
+ F,0,17815,19065,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\002 018 imagem.jpg",320,240
+ S,0,24978,,0.5
+ R,0,24978,27586,-0.03,0.03
+ F,0,25817,26934,1
+ F,0,26934,27586,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,21065,,1.5
+ F,0,21065,21717,0,1
+ F,0,24978,25630,1,0
+Sprite,Foreground,Centre,"SB\Capas\nico nico douga.png",320,240
+ F,0,21880,,1
+ S,0,21880,22369,0.1,0.8
+ S,0,22369,24651,0.8,0.9
+ S,0,24651,24978,0.9,0.1
+ R,0,24651,24978,0,6
+Sprite,Foreground,Centre,"SB\wallpaper\003 imagem.jpg",320,240
+ S,0,27260,,0.5
+ F,0,27260,27586,0,1
+ R,0,27260,30195,0.03,-0.03
+ F,0,29869,30195,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\004 Imagem.jpg",320,240
+ S,0,29869,32804,0.75,0.8
+ F,0,30195,30521,0,1
+ F,0,32478,32804,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\005 imagem.jpg",320,240
+ S,0,32804,,0.5
+ F,0,32804,33945,0,1
+ F,0,33945,34271,1,0
+ F,0,34271,34295,0,1
+ S,0,34271,34295,0.5,0.6
+ S,0,34295,35412,0.6,0.5
+ F,0,34760,35086,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,34271,,1.5
+ F,0,34271,34597,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\006 imagem.jpg",320,240
+ F,0,35086,35412,0,1
+ M,0,35086,37695,320,240,310,235
+ S,0,35086,37695,0.45,0.5
+ R,0,35086,37695,0.02,-0.03
+ F,0,35412,37369,1
+ F,0,37369,37695,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\010 imagem.jpg",320,240
+ F,0,45847,54978,1
+ M,0,45847,55630,310,425,330,420
+ S,0,45847,55630,0.87,0.84
+ R,0,45847,55630,0.05,-0.05
+ F,0,54978,55630,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,45847,,1.5
+ F,0,45847,47804,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\011 imagem.jpg",320,240
+ F,0,56282,,1
+ M,0,56282,66064,280,247,342,249
+ S,0,56282,66717,0.5,0.6
+ R,0,56282,66717,-0.01,0.01
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,56282,,1.5
+ F,0,56282,57586,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\012 imagem.jpg",320,240
+ F,0,66717,79760,1
+ S,0,66717,80412,0.5,0.45
+ R,0,66717,80412,0.03,-0.03
+ F,0,79760,80412,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,66064,,1.5
+ F,0,66064,66717,0,1
+ F,0,66717,68021,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\013 imagem.jpg",320,240
+ S,0,81064,101934,0.48,0.47
+ R,0,81064,101934,-0.03,0.03
+ F,0,81088,83673,0,1
+ F,0,100630,101934,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\015 imagem.jpg",320,240
+ F,0,122804,,1
+ M,0,122804,133238,322,238,274,264
+ S,0,122804,133238,0.46,0.54
+ R,0,122804,133238,0.06,-0.06
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,122804,,1.5
+ F,0,122804,124108,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\016 imagem.jpg",320,240
+ F,0,133238,142369,1
+ S,0,133238,143673,0.51,0.53
+ F,0,142369,143673,1,0
+ M,0,143673,,309,236
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,131934,,1.5
+ F,0,131934,133238,0,1
+ F,0,133238,135847,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\017 imagem.jpg",320,240
+ F,0,143673,163238,1
+ S,0,143673,164543,1.24,1.12
+ R,0,143673,164543,-0.2,0.08
+ F,0,163238,164543,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,143673,,1.5
+ F,0,143673,146282,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\006 imagem.jpg",320,240
+ F,0,167151,186717,1
+ S,0,167151,187369,0.5,0.47
+ R,0,167151,187369,0.01,-0.01
+ F,0,186717,187369,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,167151,,1.5
+ F,0,167151,168456,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\020 imagem.jpg",320,240
+ F,0,208891,210195,0,1
+ S,0,208891,219268,0.5,0.46
+ F,0,218021,219186,1,0
+ S,0,219268,219325,0.5,0.47
+Sprite,Foreground,Centre,"SB\wallpaper\005 imagem.jpg",320,240
+ F,0,219325,237260,1
+ S,0,219325,239543,0.5,0.47
+ R,0,219325,239543,-0.01,0.01
+ F,0,237260,237586,1,0
+ F,0,238401,238891,0,1
+ F,0,238891,239241,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\021 imagem.jpg",320,240
+ F,0,240195,259760,1
+ S,0,240195,261064,0.6,0.69
+ F,0,259760,261064,1,0
+ M,0,261064,,313,304
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,218673,,1.5
+ F,0,218673,219325,0,1
+ F,0,219325,220630,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,240195,,1.5
+ F,0,240195,242804,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\022 imagem.jpg",320,240
+ S,0,261064,,0.4968275
+ M,0,261064,263045,283,244,291,243
+ F,0,261064,263673,0,1
+ M,0,263045,270847,291,243,323,244
+ F,0,268891,270847,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\023 imagem.jpg",320,240
+ F,0,271499,281282,1
+ S,0,271499,281934,0.49,0.52
+ R,0,271499,281934,0.01,-0.01
+ F,0,281282,281934,1,0
+ M,0,281934,,295,241
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,271499,,1.5
+ F,0,271499,274108,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\024 imagem.jpg",320,240
+ F,0,281934,282260,0,1
+ S,0,281934,292369,0.9,0.86
+ R,0,281934,292369,0.03,-0.01
+ F,0,291064,292369,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,324978,,1.5
+ F,0,356282,357260,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\027 imagem.jpg",320,240
+ F,0,357586,358238,0,1
+ M,0,357586,368021,320,240,322,247
+ S,0,357586,368021,0.7,0.73
+ R,0,357586,368021,-0.01,0.03
+ F,0,358238,358891,1
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,283075,,1.5
+ F,0,283075,283891,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\025 imagem.jpg",320,240
+ S,0,292287,292393,0.7,1.1
+ S,0,292393,292556,1.1,0.9
+ S,0,292556,303945,0.9,1
+ F,0,302804,303945,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\003 imagem.jpg",320,240
+ F,0,304108,305412,0,1
+ S,0,304108,324325,0.45,0.48
+ R,0,304108,324325,0.02,0
+ F,0,305412,323673,1
+ M,0,307882,324325,320,232,317,235
+ F,0,323673,324325,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\026 imagem.jpg",320,240
+ M,0,324978,335436,251,312,267,274
+ F,0,324978,335436,1
+ S,0,324978,335436,0.65,0.55
+ R,0,324978,335436,-0.1,0.1
+ M,0,335436,347151,267,274,250,339
+ S,0,335436,347151,0.56,0.62
+ S,0,335436,347151,0.55,0.6
+ R,0,335436,347151,-0.1,0.1
+ F,0,345847,347151,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,324651,,1.5
+ F,0,324651,324978,0,1
+ F,0,324978,327586,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,334760,,1.5
+ F,0,334760,335412,0,1
+ F,0,335412,338021,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\028 imagem.jpg",320,240
+ M,0,368021,,297,285
+ S,0,368021,379434,0.62,0.66
+ R,0,368021,379434,-0.03,0.03
+ F,0,379108,379434,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,367043,,1.5
+ F,0,367043,368021,0,1
+ F,0,368021,371934,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,377804,,1.5
+ F,0,377804,378456,0,1
+ F,0,378456,379434,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\029 imagem.jpg",320,240
+ S,0,379434,,0.5
+ F,0,379434,379760,0,1
+ M,0,379434,390195,301,251,292,250
+ R,0,379434,390195,0.017,0
+ F,0,387586,388891,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\031 imagem.jpg",320,240
+ F,0,414978,417586,0,1
+ S,0,414978,430630,0.5,0.6
+ F,0,429978,430630,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\019 imagem.png",320,240
+ S,0,198130,198456,0.1,0.5
+ S,0,198456,208564,0.5,0.6
+ S,0,208564,208891,0.6,0.1
+ R,0,208564,208891,0,4
+Sprite,Foreground,Centre,"SB\wallpaper\032 imagem.jpg",320,240
+ F,0,432097,432423,0,1
+ S,0,432097,435847,0.76,0.81
+Sprite,Foreground,Centre,"SB\wallpaper\034 imagem.jpg",320,240
+ S,0,446282,,0.88
+ M,0,446282,456717,349,247,249,247
+ F,0,455249,456391,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\035 imagem.jpg",320,240
+ F,0,456717,479543,1
+ S,0,456717,480195,0.55,0.5
+ R,0,456717,480195,0.05,-0.05
+ F,0,479543,480195,1,0
+ M,0,480195,,297,240
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,456228,,1.5
+ F,0,456228,456717,0,1
+ F,0,456717,458021,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\036 imagem.jpg",320,240
+ S,0,480195,,0.5
+ F,0,480195,482804,0,1
+ M,0,480195,490630,350,240,290,244
+ F,0,489325,490630,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\037 imagem.jpg",320,240
+ S,0,490630,499760,0.9
+ R,0,490630,501064,0.03,0
+ F,0,499760,501064,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,489978,,1.5
+ F,0,489978,490630,0,1
+ F,0,490630,493238,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\008 imagem.jpg",320,240
+ S,0,394108,,0.55
+ F,0,394108,394434,0,1
+ R,0,394108,401934,-0.03,0
+Sprite,Foreground,Centre,"SB\wallpaper\008 imagem bw.jpg",320,240
+ S,0,401608,,0.55
+ F,0,401608,401934,0,1
+ F,0,404217,404543,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\008 imagem.jpg",320,240
+ S,0,404543,412369,0.55,0.52
+ R,0,404543,412369,0,0.035
+Sprite,Foreground,Centre,"SB\wallpaper\008 imagem bw.jpg",320,240
+ F,0,412043,412369,0,1
+ S,0,412369,,0.52
+ R,0,412369,,0.035
+ F,0,414651,414978,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\030 imagem.png",320,240
+ F,0,403564,404543,0,1
+ S,0,404543,,0.36
+ M,0,404543,414978,169,307,151,317
+ F,0,414651,414978,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,404543,,1.5
+ F,0,404543,405195,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\007 imagem invertido.png",320,240
+ S,0,37695,,0.5
+ F,0,37695,38021,0,1
+ F,0,38021,39325,1
+Sprite,Foreground,Centre,"SB\wallpaper\007 imagem.png",320,240
+ F,0,38673,38999,0,1
+ S,0,38999,,0.5
+ F,0,40304,40630,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\038 imagem.jpg",320,240
+ F,0,510195,511499,0,1
+ M,0,510195,532369,315,240,309,291
+ S,0,510195,532369,0.46,0.5
+ F,0,531064,531391,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\038 imagem.jpg",320,240
+ M,0,511499,,315,243
+ F,0,511499,511825,1,0.5
+ S,0,511499,512151,0.470345,0.5497932
+ F,0,511825,512478,0.5,0
+Sprite,Foreground,Centre,"SB\wallpaper\038 imagem.jpg",320,240
+ M,0,521934,,311,266
+ F,0,521958,522936,1,0
+ S,0,521958,522936,0.48,0.61
+Sprite,Foreground,Centre,"SB\wallpaper\038 imagem.jpg",320,240
+ M,0,523238,,311,270
+ F,0,523262,524240,1,0
+ S,0,523262,524240,0.48,0.61
+Sprite,Foreground,Centre,"THE 1000TH SUMMER - BAD END -.jpg",320,240
+ F,0,532369,534978,0,1
+ M,0,532369,553238,316,220,303,216
+ S,0,532369,553238,0.63,0.55
+ R,0,532369,553238,0.07,-0.05
+ F,0,550630,553238,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\040 imagem.jpg",320,240
+ F,0,553238,555847,0,1
+ S,0,553238,574108,0.6,0.5
+ R,0,553238,574108,0.01,0.03
+ F,0,572804,574108,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\041 imagem.jpg",320,240
+ S,0,575412,,0.5
+ M,0,575412,594978,342,241,315,240
+ R,0,575412,594978,0.01,-0.1
+Sprite,Foreground,Centre,"SB\wallpaper\004 effect.jpg",320,240
+ M,0,697094,713094,378,145,224,322
+Sprite,Foreground,Centre,"SB\wallpaper\043 imagem.jpg",320,240
+ M,0,596282,610793,310,275,307,282
+ S,0,596282,610793,0.47,0.5
+ F,0,610467,610793,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,593673,,1.5
+ F,0,593673,594978,0,1
+ F,0,596282,598891,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\044 imagem.jpg",320,240
+ F,0,610793,611934,0,1
+ S,0,610793,616825,0.7,0.6
+ R,0,610793,616825,-0.08,0.01
+ M,0,610793,617151,295,239,317,255
+Sprite,Foreground,Centre,"SB\wallpaper\045 imagem.jpg",320,240
+ S,0,617151,638021,0.7,0.6
+ R,0,617151,638021,0.19,-0.17
+ F,0,637369,638021,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,616499,,1.5
+ F,0,616499,617151,0,1
+ F,0,617151,619760,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\046 imagem.jpg",320,240
+ F,0,638021,640630,0,1
+ S,0,638021,648456,0.7,0.8
+Sprite,Foreground,Centre,"SB\wallpaper\046 imagem bw.jpg",320,240
+ S,0,648456,,0.8
+ F,0,654187,659094,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\001 effect.jpg",320,240
+ M,0,661094,677094,312,239,305,238
+ S,0,661094,677094,0.7,0.8
+ R,0,661094,677094,-0.03,0.03
+Sprite,Foreground,Centre,"SB\wallpaper\046 imagem.jpg",320,240
+ F,0,648456,649172,1,0
+ S,0,648456,649888,0.8,1
+Sprite,Foreground,Centre,"SB\wallpaper\042 imagem.jpg",320,240
+ S,0,677094,697094,0.5,0.6
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,659094,,1.5
+ F,0,659094,661094,0,1
+ F,0,661094,665094,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,673094,,1.5
+ F,0,673094,677094,0,1
+ F,0,677094,681094,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,689094,,1.5
+ F,0,689094,697094,0,1
+ F,0,697094,699094,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\01 marisa.png",320,240
+ S,0,574108,,0.7
+ M,0,574108,574189,316,-210,320,233
+ M,0,574189,574434,320,233,320,240
+Sprite,Foreground,Centre,"SB\wallpaper\02 marisa.png",320,240
+ S,0,574353,,0.75
+ M,0,574353,574434,1227,240,328,216
+ M,0,574434,574760,328,216,320,216
+ M,0,574760,574923,320,216,320,215
+Sprite,Foreground,Centre,"SB\wallpaper\03 imagem.jpg",320,240
+ S,0,574760,,2.2
+ M,0,574760,574842,328,727,325,237
+ M,0,574842,575412,325,237,325,235
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,574108,,1.5
+ F,0,574108,575412,0,1
+ F,0,575412,576717,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,394108,,1.5
+ F,0,394108,394760,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\050 imagem.jpg",320,240
+ S,0,729094,,0.5
+ F,0,729094,730094,0,1
+ R,0,729094,736844,-0.03,0
+ F,0,736594,736844,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\052 imagem.jpg",320,240
+ F,0,745094,747094,0,1
+ S,0,745094,761094,0.8,0.7
+ R,0,745094,761094,0.05,-0.03
+ F,0,760594,761094,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\053 imagem.jpg",320,240
+ M,0,761094,776594,322,239,321,244
+ S,0,761094,776594,0.45,0.48
+ R,0,761094,776594,-0.01,0.01
+ F,0,776594,777094,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,761094,,1.5
+ F,0,761094,763094,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\055 imagem.jpg",320,240
+ S,0,791219,,0.7
+ F,0,801001,801653,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\057 imagem.jpg",320,240
+ S,0,812088,821219,0.45,0.48
+ F,0,819914,821219,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\004 effect.jpg",320,240
+ S,0,874697,,1
+ M,0,874697,886436,336,320,256,185
+Sprite,Foreground,Centre,"SB\wallpaper\004 Imagem.jpg",320,240
+ M,0,822523,,333,295
+ F,0,822523,823827,0,1
+ S,0,822523,843392,0.76,0.8
+ F,0,842088,843392,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\058 imagem.jpg",320,240
+ S,0,843392,864262,0.55,0.62
+ R,0,843392,864262,0.1,0.07
+Sprite,Foreground,Centre,"SB\wallpaper\058 imagem.jpg",320,240
+ R,0,843392,,0.1
+ F,0,843392,844371,1,0
+ S,0,843392,844371,0.58,0.69
+Sprite,Foreground,Centre,"SB\wallpaper\058 imagem.jpg",320,240
+ R,0,853827,,0.08
+ F,0,853827,854805,1,0
+ S,0,853827,854805,0.6,0.7
+Sprite,Foreground,Centre,"SB\wallpaper\002 018 imagem.jpg",320,240
+ S,0,864262,874697,0.5
+ R,0,864262,874697,-0.03,0.01
+Sprite,Foreground,Centre,"SB\wallpaper\059 imagem.jpg",320,240
+ F,0,874697,,1
+ S,0,874697,886436,0.48,0.46
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,862958,,1.5
+ F,0,862958,864262,0,1
+ F,0,864262,866871,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ F,0,873392,874697,0,1
+ S,0,873392,874697,1.6,1.5
+ M,0,874697,,320.8828,240
+ S,0,874697,876548,1.5
+ F,0,874697,877305,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\001 Imagem.jpg",320,240
+ S,0,896545,896708,0.1
+ F,0,896708,896871,0,1
+ S,0,896708,896871,0.1,0.6
+ S,0,896871,909914,0.62,0.65
+ R,0,896871,909914,-0.03,0.05
+ F,0,907305,909914,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\009 imagem.jpg",320,240
+ F,0,909914,915132,0,1
+ S,0,909914,915132,1.04,1.07
+ M,0,915132,930784,310,553,304,334
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,919045,,1.5
+ F,0,919045,920349,0,1
+ F,0,920349,921653,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\060 imagem.jpg",320,240
+ S,0,930784,,0.5
+ R,0,930784,933392,-0.03,0.02
+ F,0,933066,933392,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ F,0,930132,930784,0,1
+ S,0,930132,930784,1.4
+ F,0,930784,932088,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,933392,,1.5
+ F,0,933392,933719,0,1
+ F,0,933719,936001,1
+Sprite,Foreground,Centre,"SB\wallpaper\026 imagem.jpg",320,240
+ S,0,933392,,0.6
+ F,0,933392,933719,0,1
+ M,0,933392,936001,244,298,252,297
+ R,0,933392,936001,0.07,-0.03
+Sprite,Foreground,Centre,"SB\wallpaper\016 imagem.jpg",320,240
+ S,0,936001,,0.5
+ R,0,936001,938610,0.05,-0.02
+ F,0,938284,938610,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,935349,,1.5
+ F,0,935349,936001,0,1
+ F,0,936001,937305,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\061 imagem.jpg",320,240
+ M,0,938610,,295,258
+ S,0,938610,,0.5
+ F,0,938610,938936,0,1
+ R,0,938610,941219,-0.03,0.03
+Sprite,Foreground,Centre,"SB\wallpaper\063 imagem.jpg",320,240
+ F,0,941219,943501,1
+ S,0,941219,943827,0.73,0.76
+ F,0,943501,943827,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,939914,,1.5
+ F,0,939914,941219,0,1
+ F,0,941219,942523,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\062 imagem.jpg",320,240
+ S,0,943827,,0.5
+ F,0,943827,944153,0,1
+ M,0,943827,946436,335,219,323,209
+ R,0,943827,946436,-0.03,0.05
+ F,0,946110,946436,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\064 imagem.jpg",320,240
+ S,0,946436,,0.68
+ F,0,946436,948719,1
+ R,0,946436,949045,0.03,-0.01
+ F,0,948719,949045,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,946436,,1.3
+ F,0,946436,947414,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\065 imagem.jpg",320,240
+ F,0,949045,949371,0,1
+ S,0,949045,951653,0.55,0.5
+Sprite,Foreground,Centre,"SB\wallpaper\067 imagem.jpg",320,240
+ S,0,951653,954262,0.47,0.5
+ F,0,953936,954262,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,950349,,1.5
+ F,0,950349,951653,0,1
+ F,0,951653,952958,1,0
+ M,0,952639,,282,209
+Sprite,Foreground,Centre,"SB\wallpaper\066 imagem.jpg",320,240
+ F,0,954262,954588,0,1
+ S,0,954262,956871,0.7,0.75
+Sprite,Foreground,Centre,"SB\wallpaper\069 imagem.jpg",320,240
+ F,0,959479,959805,0,1
+ S,0,959479,962088,0.76,0.7
+Sprite,Foreground,Centre,"SB\wallpaper\005 imagem.jpg",320,240
+ S,0,962088,964697,0.5,0.47
+ R,0,962088,964697,0.017,-0.01
+ F,0,964371,964697,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\012 imagem.jpg",320,240
+ M,0,964697,,563,265
+ S,0,964697,,0.73
+ F,0,964697,965023,0,1
+ R,0,964697,967305,-0.01,0.03
+ F,0,966979,967305,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,960784,,1.5
+ F,0,960784,962088,0,1
+ F,0,962088,963392,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\071 imagem.jpg",320,240
+ S,0,967305,,1.09
+ F,0,967305,967632,0,1
+ M,0,967305,969914,310,526,309,501
+ F,0,969588,969914,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\072 imagem.jpg",320,240
+ S,0,969914,,0.7
+ F,0,969914,970240,0,1
+ M,0,969914,972523,320,241,276,243
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ M,0,972523,,320,250.5931
+ S,0,972523,,1.46
+ F,0,972523,975132,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\009 imagem.jpg",320,240
+ M,0,972523,,301,554
+ S,0,972523,996653,1.13,1.17
+ F,0,996001,996653,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\009 imagem.jpg",320,240
+ M,0,997305,,769,602
+ S,0,997305,,2.2
+ F,0,997305,997958,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\009 imagem.jpg",320,240
+ M,0,998610,,-194,569
+ S,0,998610,,2.3
+ F,0,998610,999262,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\009 imagem.jpg",320,240
+ M,0,999914,,299,819
+ S,0,999914,,1.9
+ F,0,999914,1000566,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\073 imagem.jpg",320,240
+ M,0,1009697,,998,394
+ S,0,1009697,,1.25
+ R,0,1009697,,0.16
+ F,0,1009860,1010023,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\073 imagem.jpg",320,240
+ M,0,1010023,,-241,570
+ S,0,1010023,,1.07
+ F,0,1010186,1010349,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\073 imagem.jpg",320,240
+ S,0,1010349,1010430,0.1,0.5
+ M,0,1010430,1010512,316,232,311,231
+ S,0,1010430,1010512,0.5,0.47
+ S,0,1010512,1015566,0.47,0.48
+ R,0,1010512,1015566,-0.035,0.035
+ F,0,1015240,1015566,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\074 imagem.jpg",320,240
+ S,0,1015566,,0.53
+ F,0,1015566,1015892,0,1
+ R,0,1015566,1020132,0.1,0
+ F,0,1018827,1019479,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\074 imagem.jpg",320,240
+ M,0,1019479,,-188,258
+ F,0,1019642,1019805,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\074 imagem.jpg",320,240
+ M,0,1019805,,161,294
+ F,0,1019968,1020132,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\074 imagem.jpg",320,240
+ M,0,1020132,,836,-39
+ F,0,1020295,1020458,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\074 imagem.jpg",320,240
+ M,0,1020458,,607,142
+ S,0,1020458,,1.18
+ R,0,1020458,,0.07
+ F,0,1020621,1020784,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\074 imagem.jpg",320,240
+ S,0,1020784,,0.5
+ F,0,1021110,1021762,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\075 imagem.jpg",320,240
+ S,0,1035132,,0.45
+ R,0,1035132,1045566,0,0.03
+ F,0,1045566,1047523,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\075 imagem.jpg",320,240
+ F,0,1035132,1036436,1,0
+ S,0,1035132,1036436,0.45,0.56
+Sprite,Foreground,Centre,"SB\wallpaper\075 imagem alt.jpg",320,240
+ S,0,1048175,1090403,0.8,0.85
+ R,0,1048175,1090403,-0.03,0.03
+ F,0,1089751,1090403,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,1047523,,1.4
+ F,0,1047523,1048175,0,1
+ F,0,1048175,1050784,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\002 imagem ievan.jpg",320,240
+ S,0,188021,,0.9
+ F,0,188021,188673,0,1
+ M,0,188021,198456,322,230,303,229
+ R,0,188021,198456,0.03,-0.01
+ F,0,197804,198456,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\003 effect.png",320,240
+ M,0,699094,,386,272
+ F,0,699094,699594,0,1
+ S,0,699094,700094,0.41,0.42
+ S,0,700094,704844,0.42
+ F,0,704344,704844,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\002 effect.png",320,240
+ F,0,705094,705594,0,1
+ M,0,708094,,316,247
+ S,0,708094,,0.41
+ F,0,712094,712594,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,971219,,1.5
+ F,0,971219,972523,0,1
+ F,0,972523,975132,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\2 efeito.png",320,240
+ M,0,1021762,,0.44,375
+ S,0,1021762,,0.44
+ R,0,1021762,,0.86
+ F,0,1021762,1024697,1
+Sprite,Foreground,Centre,"SB\wallpaper\2 efeito.png",320,240
+ M,0,1021925,,421,415
+ S,0,1021925,,0.34
+ R,0,1021925,,-0.33
+ F,0,1021925,1024697,1
+Sprite,Foreground,Centre,"SB\wallpaper\2 efeito.png",320,240
+ M,0,1022414,,483,139
+ S,0,1022414,,0.44
+ R,0,1022414,,-3.05
+ F,0,1022414,1023066,1
+ F,0,1023066,1024697,1
+Sprite,Foreground,Centre,"SB\wallpaper\2 efeito.png",320,240
+ M,0,1022577,,54,109
+ S,0,1022577,,0.435
+ R,0,1022577,,-3.65
+ F,0,1022577,1024697,1
+Sprite,Foreground,Centre,"SB\wallpaper\2 efeito.png",320,240
+ M,0,1023066,,610,278
+ S,0,1023066,,0.51
+ R,0,1023066,,-1.28
+ F,0,1023066,1024697,1
+Sprite,Foreground,Centre,"SB\wallpaper\2 efeito.png",320,240
+ M,0,1023229,,214,379
+ S,0,1023229,,0.44
+ R,0,1023229,,0.1
+ F,0,1023229,1024697,1
+Sprite,Foreground,Centre,"SB\wallpaper\2 efeito.png",320,240
+ M,0,1023555,,280,150
+ S,0,1023555,,0.62
+ R,0,1023555,,-3.17
+ F,0,1023555,1024697,1
+Sprite,Foreground,Centre,"SB\wallpaper\2 efeito.png",320,240
+ M,0,1023800,,56,226
+ S,0,1023800,,0.67
+ R,0,1023800,,1.5
+ F,0,1023800,1024697,1
+Sprite,Foreground,Centre,"SB\wallpaper\1 efeito.png",320,240
+ S,0,1024045,1024697,0.66,0.7
+ R,0,1024045,1024697,0.05,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,1024208,,1.5
+ F,0,1024208,1024697,0,1
+ F,0,1024697,1027305,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\usagi kawaii.jpg",320,240
+ F,0,347151,349760,0,1
+ S,0,347151,349760,1.1,0.9
+ S,0,349760,356282,0.9,0.83
+ F,0,356282,356445,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ S,0,388891,,0.41
+ F,0,388891,389217,0,1
+ F,0,389217,389543,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ S,0,389543,,0.43
+ R,0,389543,,0.01
+ F,0,389543,389869,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ S,0,389869,,0.43
+ R,0,389869,,-0.017
+ F,0,389869,390195,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ M,0,390195,,314,245
+ S,0,390195,,0.4262068
+ F,0,390195,390521,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ M,0,390521,,320,239
+ S,0,390521,,0.42
+ F,0,390521,390847,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ S,0,390847,,0.41
+ R,0,390847,,-0.03
+ F,0,390847,391173,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ S,0,391173,,0.41
+ R,0,391173,,0.02
+ F,0,391173,391499,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ S,0,391499,,0.43
+ R,0,391499,,-0.035
+ F,0,391499,391825,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ S,0,391825,,0.44
+ R,0,391825,,0.017
+ F,0,391825,392151,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ M,0,392151,,316,237
+ S,0,392151,,0.44
+ F,0,392151,392477,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ M,0,392478,,321,247
+ S,0,392478,,0.44
+ R,0,392478,,-0.017
+ F,0,392478,392804,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ M,0,392804,,316,243
+ S,0,392804,,0.44
+ R,0,392804,,0.035
+ F,0,392804,393130,1
+Sprite,Foreground,Centre,"SB\wallpaper\senjougahara.jpg",320,240
+ M,0,393130,,316,243
+ S,0,393130,,0.44
+ R,0,393130,,0.017
+ F,0,393130,393456,1
+ F,0,393456,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,389217,,89,294
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,389380,,260,46
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\004 effect.jpg",320,240
+ M,0,886436,896871,368,322,263,152
+ F,0,896219,896871,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,389543,,446,443
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,389706,,540,178
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,389869,,335,50
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,390032,,55,143
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,390195,,150,437
+ F,0,393619,393782,1,0.18
+ F,0,393782,393863,0.18,0.28
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,390358,,553,326
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,390521,,102,37
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,390684,,1,266
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,390847,,602.4828,428.0276
+ F,0,390847,393619,1
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,391010,,566,43
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,391173,,7,410
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,391336,,-49.87586,157.0207
+ F,0,391336,393619,1
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,391499,,619,266
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,391662,,608,135
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\star.png",320,240
+ M,0,391825,,-36,90
+ F,0,393619,393782,1,0
+Sprite,Foreground,Centre,"SB\Capas\White.png",320,240
+ S,0,430654,,1.5
+ F,0,430654,430980,0,1
+ F,0,431632,431958,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\nichijou.png",320,240
+ S,0,430956,431037,0.1,0.9
+ S,0,431037,431119,0.9,0.7
+ S,0,431119,431934,0.7,0.9
+ F,0,431771,431934,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\higurashi.png",320,240
+ M,0,506282,,204.3586,194.0966
+ F,0,506282,506934,0,1
+ S,0,506282,510195,0.6,0.67
+ F,0,510195,510521,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\higurashi fofa.png",320,240
+ M,0,501064,,563,340
+ F,0,501064,502369,0,1
+ S,0,501064,506282,0.31,0.32
+ S,0,506282,510195,0.32,0.33
+ F,0,509543,510195,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\watashi.png",320,240
+ F,0,594978,595304,0,1
+ S,0,594978,595304,0.38,0.5
+ S,0,595304,596282,0.5,0.55
+ F,0,595956,596282,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\nadeko chan.png",320,240
+ M,0,704344,,21,361
+ F,0,704344,704594,1
+Sprite,Foreground,Centre,"SB\wallpaper\nadeko chan.png",320,240
+ M,0,704594,,43,363
+ R,0,704594,,0.05
+ F,0,704844,705094,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\054 imagem.jpg",320,240
+ S,0,777094,,0.42
+ F,0,777094,779094,1
+Sprite,Foreground,Centre,"SB\wallpaper\054 imagem.jpg",320,240
+ S,0,779094,,0.55
+ F,0,779094,781094,1
+Sprite,Foreground,Centre,"SB\wallpaper\054 imagem.jpg",320,240
+ S,0,781094,,0.7
+ F,0,781094,783094,1
+Sprite,Foreground,Centre,"SB\wallpaper\054 imagem.jpg",320,240
+ S,0,782998,,0.88
+ F,0,782998,784998,1
+Sprite,Foreground,Centre,"SB\wallpaper\054 imagem.jpg",320,240
+ F,0,784844,786844,1
+Sprite,Foreground,Centre,"SB\wallpaper\054 imagem.jpg",320,240
+ S,0,786621,,1.15
+ F,0,786621,788621,1
+Sprite,Foreground,Centre,"SB\wallpaper\054 imagem.jpg",320,240
+ S,0,788276,,1.23
+ F,0,788276,791219,1
+Sprite,Foreground,Centre,"SB\Capas\red efeito.png",320,240
+ S,0,789824,,1.4
+ F,0,789824,791219,0,1
+ F,0,791219,791871,1,0
+ F,0,791871,792523,0,0.5
+ F,0,792523,793175,0.5,0
+ F,0,793175,793827,0,0.5
+ F,0,793827,794479,0.5,0
+ F,0,794479,795132,0,0.5
+ F,0,795132,795784,0.5,0
+ F,0,795784,796436,0,0.5
+ F,0,796436,797088,0.5,0
+ F,0,797088,797740,0,0.5
+ F,0,797740,798392,0.5,0
+ F,0,798392,799045,0,0.5
+ F,0,799045,799697,0.5,0
+ F,0,799697,800349,0,0.5
+ F,0,800349,801001,0.5,0
+Sprite,Foreground,Centre,"SB\Capas\black.jpg",320,240
+ F,0,887740,889045,0,1
+ S,0,887740,889045,0.5,0.55
+ F,0,896219,896545,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\confession.jpg",320,240
+ M,0,889697,,320,174
+ S,0,889697,,0.71
+ F,0,889697,890349,0,1
+ F,0,896219,896545,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\1 fala.png",320,240
+ M,0,891653,,199,313
+ S,0,891653,,0.22
+ F,0,891653,891816,0,1
+ F,0,896219,896545,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\2 fala.png",320,240
+ F,0,892305,892469,0,1
+ M,0,892958,,282,316
+ S,0,892958,,0.2
+ F,0,896219,896545,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\3 fala.png",320,240
+ F,0,892958,893121,0,1
+ M,0,894262,,387,318
+ S,0,894262,,0.17
+ F,0,896219,896545,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\happy end.png",320,240
+ F,0,893610,893773,0,1
+ M,0,895566,,245,364
+ S,0,895566,,0.18
+ F,0,896219,896545,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\efeitinho.png",320,240
+ M,0,1002523,,63,333
+ S,0,1002523,,0.64
+ F,0,1002849,1003175,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\efeitinhoquatro.png",320,240
+ M,0,1003827,,526,351
+ S,0,1003827,,0.5
+ F,0,1004153,1004479,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\efeitinhocinco.png",320,240
+ M,0,1005132,,191.1173,346.8138
+ S,0,1005132,,0.68
+ F,0,1005458,1005784,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\efeitinhotres.png",320,240
+ M,0,1006436,,634,335
+ S,0,1006436,,0.5
+ F,0,1006762,1007088,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\efeitinhoum.png",320,240
+ M,0,1007740,,-11,326
+ S,0,1007740,,0.68
+ F,0,1008066,1008392,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\efeitinhodois.png",320,240
+ M,0,1009045,,304,331
+ S,0,1009045,,0.48
+ F,0,1009045,1009697,1
+Sprite,Foreground,Centre,"SB\wallpaper\mah jong.png",320,240
+ S,0,164543,,0.17
+ M,0,164543,165195,296,116,296,230
+ F,0,164543,165195,0,1
+ R,0,164543,165195,0.21,0.088
+ M,0,165195,165358,296,230,296,221
+ R,0,165195,165358,0.088,0.035
+ M,0,165358,165521,296,221,296,235
+ R,0,165358,165521,0.035,-0.017
+ F,0,166499,166825,1,0
+Sprite,Foreground,Centre,"SB\wallpaper\kawaii.png",320,240
+ M,0,166010,,67,370
+ S,0,166010,,0.32
+ F,0,166010,166173,0,1
+ F,0,166499,166825,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,885132,,1.47
+ F,0,885132,886436,0,1
+ F,0,886436,887740,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\051 imagem fundo.jpg",320,240
+ S,0,737094,744594,0.5,0.55
+ F,0,744594,745094,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,737094,,1.5
+ F,0,737094,737594,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\051 imagem png.png",320,240
+ S,0,738094,,0.44
+ F,0,738094,738594,0,1
+ F,0,744094,744469,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\068 imagem fundo.png",320,240
+ S,0,956871,959479,1.33,1.25
+ R,0,956871,959479,-0.03,0.79
+ F,0,959153,959479,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\068 imagem fofa.png",320,240
+ S,0,957197,,0.62
+ F,0,957197,957523,0,1
+ F,0,959153,959479,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,955892,,1.5
+ F,0,955892,956871,0,1
+ F,0,956871,957197,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,112369,,1.5
+ F,0,112369,113673,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,111391,,1.5
+ F,0,111391,112369,0,1
+Sprite,Foreground,Centre,"sb\tarrasque\primeira.png",320,240
+ S,0,5070,,0.21
+ F,0,5070,5570,0,1
+ M,0,5070,17570,88,415,89,416
+ F,0,17070,17570,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\a.png",320,240
+ F,0,25491,25817,0,1
+ S,0,25817,,0.3
+ M,0,25817,27121,402,457,406,458
+ F,0,26958,27121,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\b.png",320,240
+ S,0,27936,,0.3
+ F,0,27936,28262,0,1
+ M,0,27936,29974,137,434,142,431
+ F,0,29730,29974,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\c.png",320,240
+ S,0,30545,,0.25
+ F,0,30545,30871,0,1
+ M,0,30545,32583,458,126,464,123
+ F,0,32175,32583,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\d.png",320,240
+ F,0,33154,33480,0,1
+ M,0,33317,,156,407
+ S,0,33317,,0.22
+ F,0,34132,34295,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\e.png",320,240
+ S,0,35762,,0.23
+ F,0,35762,36088,0,1
+ M,0,35762,37556,179,94,175,91
+ F,0,37230,37556,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\f.png",320,240
+ M,0,38045,,309,505
+ S,0,38045,,0.31
+ F,0,38045,38371,0,1
+ F,0,40002,40328,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\BG MIIRO.jpg",320,240
+ S,0,55654,,0.65
+ F,0,55654,55980,0,1
+ F,0,55980,56306,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\evazeroone.png",320,240
+ M,0,212828,,55,330
+ R,0,212828,,0.1294714
+ F,0,212828,214132,1
+Sprite,Foreground,Centre,"sb\wallpaper\evanerv.png",320,240
+ M,0,213154,,581,230
+ S,0,213154,,0.55
+ F,0,213154,214132,1
+Sprite,Foreground,Centre,"sb\wallpaper\evarei.png",320,240
+ M,0,213480,,228,106
+ S,0,213480,,0.45
+ R,0,213480,,2.68
+ F,0,213480,214132,1
+Sprite,Foreground,Centre,"sb\wallpaper\evalogo.png",320,240
+ M,0,213806,,321,303
+ S,0,213806,,0.74
+ F,0,213806,214132,1
+Sprite,Foreground,Centre,"sb\wallpaper\ta.png",320,240
+ M,0,239241,,491,384
+ S,0,239241,,1.14
+ R,0,239241,,0.09
+ F,0,239322,239567,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\ta.png",320,240
+ M,0,239567,,19,189
+ S,0,239567,,1.27
+ F,0,239648,239893,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\toe.jpg",320,240
+ S,0,239974,,0.71
+ F,0,239975,240219,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\down.jpg",320,240
+ F,0,80436,80762,1
+Sprite,Foreground,Centre,"sb\wallpaper\get.jpg",320,240
+ F,0,80762,81088,1
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,81088,,1.3
+ F,0,81088,81415,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\014 imagem.jpg",320,240
+ S,0,101958,,1.42
+ F,0,101958,102610,0,1
+ M,0,101958,107175,1150,216,1138,221
+ F,0,106849,107175,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\014 imagem.jpg",320,240
+ S,0,107175,,1.02
+ F,0,107175,107502,0,1
+ M,0,107175,111415,-202,252,-213,249
+ F,0,111088,111415,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\014 imagem.jpg",320,240
+ S,0,113045,,0.57
+ F,0,113045,113697,0,1
+ M,0,113045,122175,406,241,283,240
+ F,0,121523,121849,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\i.png",320,240
+ S,0,48480,,0.33
+ F,0,48480,48806,0,1
+ M,0,48480,55165,161,139,175,144
+ F,0,54838,55165,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\j.png",320,240
+ S,0,58262,,0.21
+ F,0,58262,58588,0,1
+ M,0,58262,65762,100,418,90,421
+ F,0,65436,65762,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\k.png",320,240
+ S,0,68045,,0.25
+ F,0,68045,68371,0,1
+ M,0,68045,78806,461,145,475,142
+ F,0,78480,78806,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\l.png",320,240
+ M,0,83697,,493,421
+ S,0,83697,,0.24
+ F,0,83697,84023,0,1
+ F,0,84023,100654,1
+ F,0,100654,100980,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,91523,,1.38
+ F,0,91523,91849,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\m.png",320,240
+ M,0,113697,,168,436
+ S,0,113697,,0.18
+ F,0,113697,114023,0,1
+ F,0,121197,121523,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\n.png",320,240
+ S,0,124132,,0.18
+ F,0,124132,124458,0,1
+ M,0,124132,131958,539,102,558,124
+ F,0,131632,131958,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\o.png",320,240
+ M,0,135871,,314,447
+ F,0,135871,136197,0,1
+ S,0,135871,142393,0.24,0.26
+ F,0,142393,142719,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\p.png",320,240
+ M,0,146143,,110,443
+ S,0,146143,,0.21
+ F,0,146143,146632,0,1
+ F,0,161877,162284,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\q.png",320,240
+ S,0,189349,,0.22
+ F,0,189349,189675,0,1
+ M,0,189349,198072,484,433,488,433
+ F,0,197828,198072,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\d.png",320,240
+ S,0,220654,,0.24
+ F,0,220654,220980,0,1
+ M,0,220654,236632,105,428,124,432
+ F,0,236306,236632,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,228643,,1.43
+ F,0,228643,229132,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\shingeki.png",320,240
+ M,0,237447,237610,366,312,319,294
+ F,0,237447,237610,0,1
+ S,0,237610,,0.87
+ M,0,237610,238425,319,294
+ M,0,238425,238588,319,294,297,284
+ F,0,238425,238588,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\petal.png",320,240
+ S,0,270871,,0.1
+ M,0,270871,271523,25,119,41,161
+ R,0,270871,271523,0.176,-0.7
+Sprite,Foreground,Centre,"sb\wallpaper\petal.png",320,240
+ S,0,270871,,0.1
+ M,0,270871,271523,477,84,474,128
+ R,0,270871,271523,2.68,4.24
+Sprite,Foreground,Centre,"sb\wallpaper\petal.png",320,240
+ S,0,270953,,0.1
+ M,0,270953,271523,232,46,227,105
+ R,0,270953,271523,-1.45,-4.15
+Sprite,Foreground,Centre,"sb\wallpaper\petal.png",320,240
+ S,0,271034,,0.1
+ M,0,271034,271523,401,270,407,299
+ R,0,271034,271523,-0.83,-3.38
+Sprite,Foreground,Centre,"sb\wallpaper\petal.png",320,240
+ S,0,271116,,0.1
+ M,0,271116,271523,147,258,147,316
+ R,0,271116,271523,-0.69,-0.03
+Sprite,Foreground,Centre,"sb\wallpaper\petal.png",320,240
+ S,0,271197,,0.1
+ M,0,271197,271523,606,217,585,245
+ R,0,271197,271523,0.45,1.7
+Sprite,Foreground,Centre,"sb\wallpaper\petal.png",320,240
+ S,0,271279,,0.1
+ M,0,271279,271523,340,147,341,192
+ R,0,271279,271523,2,1.4
+Sprite,Foreground,Centre,"sb\wallpaper\petal.png",320,240
+ S,0,271360,,0.1
+ M,0,271360,271523,-19,324,-21,350
+ R,0,271360,271523,-1.47,-1.2
+Sprite,Foreground,Centre,"sb\wallpaper\petal.png",320,240
+ S,0,271442,,0.1
+ M,0,271442,271523,281,383,281,385
+ R,0,271442,271523,-0.23,-0.011
+Sprite,Foreground,Centre,"sb\wallpaper\petal.png",320,240
+ S,0,271360,,0.1
+ M,0,271360,271523,536,355,537,361
+ R,0,271360,271523,-0.23,0.14
+Sprite,Foreground,Centre,"sb\tarrasque\s.png",320,240
+ S,0,210219,,0.22
+ F,0,210219,210545,0,1
+ M,0,210219,218371,533,415,545,421
+ F,0,218045,218371,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,214132,,1.35
+ F,0,214132,214458,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\t.png",320,240
+ S,0,242828,,0.21
+ F,0,242828,243154,0,1
+ M,0,242828,259784,481,431,490,432
+ F,0,259458,259784,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\u.png",320,240
+ S,0,263045,,0.36
+ F,0,263045,263371,0,1
+ M,0,263045,269241,168,478,169,478
+ F,0,268915,269241,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\v.png",320,240
+ M,0,274132,,317,446
+ S,0,274132,,0.22
+ F,0,274132,274458,0,1
+ F,0,280491,280817,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\w.png",320,240
+ M,0,284567,,534,119
+ S,0,284567,,0.27
+ F,0,284567,284893,0,1
+ F,0,291088,291415,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\x.png",320,240
+ M,0,292719,293045,129,404,128,431
+ S,0,292719,293045,0.1,0.25
+ R,0,292719,293045,0.3,6.3
+ M,0,293045,302828,128,431,135,440
+ F,0,302828,303154,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\b.png",320,240
+ S,0,305436,,0.27
+ F,0,305436,305762,0,1
+ M,0,305436,323371,524,138,530,140
+ F,0,323045,323371,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\y.png",320,240
+ S,0,327610,,0.25
+ F,0,327610,327936,0.0583905,1
+ M,0,327610,346197,78.71265,460.1012,87.54024,463.6322
+ F,0,334784,335436,1,0
+ F,0,335436,338045,0,1
+ F,0,345871,346197,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\z.png",320,240
+ S,0,358915,,0.26
+ F,0,358915,359241,0,1
+ M,0,358915,365762,538,134,551,131
+ F,0,365436,365762,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\28.png",320,240
+ M,0,373262,,584,428
+ F,0,373262,373588,0,1
+ S,0,373262,377502,0.28,0.26
+ F,0,377175,377502,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\29.png",320,240
+ S,0,380436,,0.25
+ F,0,380436,380762,0,1
+ M,0,380436,387936,537,104,543,107
+ F,0,387610,387936,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\g.png",320,240
+ S,0,395436,,0.21
+ F,0,395436,395762,0,1
+ M,0,395436,401958,120,107,123,114
+ M,0,401958,404567,123,114,124,115
+ F,0,404078,404404,1,0
+ F,0,404567,405219,0,1
+ M,0,404567,412393,124,115,127,107
+ F,0,412067,412393,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\30.png",320,240
+ S,0,405545,,0.12
+ F,0,405545,405871,0,1
+ M,0,405545,414675,165,431,151,440
+ F,0,414349,414675,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\31.png",320,240
+ M,0,417610,,540,444
+ S,0,417610,,0.22
+ F,0,417610,417936,0,1
+ F,0,429675,430002,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\32.png",320,240
+ S,0,432773,,0.43
+ F,0,432773,433099,0,1
+ M,0,432773,434730,229,428,234,428
+ F,0,434404,434730,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\033 imagem.jpg",320,240
+ M,0,435871,446306,311,273,310,278
+ S,0,435871,446306,0.48,0.51
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,435219,,1.47
+ F,0,435219,435871,0,1
+ F,0,435871,437175,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\33.png",320,240
+ M,0,437502,,310,453
+ S,0,437502,,0.28
+ F,0,437502,437828,0,1
+ F,0,445328,445654,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,445654,,1.47
+ F,0,445654,446306,0,1
+ F,0,446306,447610,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\34.png",320,240
+ M,0,447936,,60,120
+ S,0,447936,,0.26
+ F,0,447936,448262,0,1
+ F,0,454784,455110,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\e.png",320,240
+ M,0,168480,,68,104
+ S,0,168480,,0.2
+ F,0,168480,168806,0,1
+ F,0,186088,186415,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,177610,,1.47
+ F,0,177610,178262,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\35.png",320,240
+ M,0,458371,,474,416
+ S,0,458371,,0.19
+ F,0,458371,458697,0,1
+ F,0,478915,479241,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\36.png",320,240
+ F,0,479567,479893,0,1
+ M,0,479893,,322,240
+ S,0,479893,,0.19
+ F,0,490002,490328,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\37.png",320,240
+ S,0,493262,,0.34
+ F,0,493262,493588,0,1
+ M,0,493262,500110,154,453,159,453
+ F,0,499784,500110,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\38.png",320,240
+ M,0,514132,,47,424
+ S,0,514132,,0.16
+ F,0,514132,514458,0,1
+ F,0,529784,530110,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\38.png",320,240
+ M,0,521958,,46,424
+ F,0,521958,522936,1,0
+ S,0,521958,522936,0.16,0.33
+Sprite,Foreground,Centre,"sb\tarrasque\38.png",320,240
+ M,0,523262,,46,424
+ F,0,523262,524240,1,0
+ S,0,523262,524240,0.16,0.33
+Sprite,Foreground,Centre,"sb\tarrasque\39.png",320,240
+ S,0,535002,,0.34
+ F,0,535002,535654,0,1
+ M,0,535002,551306,459,496,462,500
+ F,0,550654,551306,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\40.png",320,240
+ M,0,555871,,-6,101
+ F,0,555871,556523,0,1
+ S,0,555871,573480,0.24,0.23
+ F,0,572828,573480,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\41.png",320,240
+ M,0,578045,,430,434
+ S,0,578045,,0.49
+ F,0,578045,578371,0,1
+ F,0,593697,594023,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\42.png",320,240
+ S,0,598915,,0.27
+ F,0,598915,599241,0,1
+ M,0,598915,610328,47,453,55,448
+ F,0,610002,610328,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\43.png",320,240
+ M,0,611958,,478,78
+ S,0,611958,,0.25
+ F,0,611958,612284,0,1
+ F,0,616197,616523,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\44.png",320,240
+ M,0,619772,,290,424
+ S,0,619772,,0.23
+ F,0,619772,620098,0,1
+ F,0,636576,637066,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\45.png",320,240
+ M,0,640653,,568,448
+ F,0,640653,640979,0,1
+ S,0,640653,648480,0.38,0.34
+ F,0,654194,654583,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\46.png",320,240
+ M,0,681100,,318,188
+ F,0,681100,681600,0,1
+ S,0,681100,689600,0.26,0.23
+ F,0,689100,689600,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\47.png",320,240
+ M,0,708100,,99,102
+ S,0,708100,,0.27
+ F,0,708100,708600,0,1
+ F,0,711600,712100,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\48.png",320,240
+ M,0,715100,,506,434
+ F,0,715100,,1
+ S,0,715100,,0.27
+Sprite,Foreground,Centre,"sb\wallpaper\048 imagem.jpg",320,240
+ M,0,713100,,319,240
+ S,0,713100,,0.62
+ F,0,713100,720600,1
+ F,0,720600,721100,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\049 imagem.jpg",320,240
+ S,0,721100,,0.46
+ F,0,721100,721350,0,1
+ F,0,728600,729100,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,712600,,1.65
+ F,0,712600,713100,0,1
+ F,0,713100,714100,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\48.png",320,240
+ M,0,714600,,485,448
+ S,0,714600,,0.24
+ F,0,714600,715100,0,1
+ F,0,720600,720850,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\49.png",320,240
+ M,0,722100,,132,101
+ S,0,722100,,0.24
+ F,0,722100,722600,0,1
+ F,0,728100,728600,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\50.png",320,240
+ M,0,730100,,576,110
+ S,0,730100,,0.29
+ F,0,730100,730600,0,1
+ F,0,736100,736475,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\51.png",320,240
+ M,0,739100,,327,439
+ F,0,739100,739600,0,1
+ S,0,739100,744600,0.31,0.34
+ F,0,744100,744600,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\52.png",320,240
+ S,0,749100,,0.38
+ F,0,749100,749600,0,1
+ M,0,749100,759600,34,431,38,430
+ F,0,759100,759600,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\53.png",320,240
+ M,0,763100,,564,427
+ F,0,763100,763600,0,1
+ S,0,763100,776600,0.2,0.24
+ F,0,776100,776600,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\056 imagem.jpg",320,240
+ F,0,801660,802965,0,1
+ S,0,801660,812095,0.48,0.51
+ R,0,801660,812095,-0.03,0.016
+ F,0,802965,812095,1
+Sprite,Foreground,Centre,"sb\tarrasque\54.png",320,240
+ F,0,777100,778100,1
+ M,0,778100,,319,320
+ S,0,778100,,0.1
+ F,0,778100,779100,1
+Sprite,Foreground,Centre,"sb\tarrasque\54.png",320,240
+ M,0,779100,,317,330
+ S,0,779100,,0.14
+ F,0,779100,781100,1
+Sprite,Foreground,Centre,"sb\tarrasque\54.png",320,240
+ M,0,781100,,318,342
+ S,0,781100,,0.18
+ F,0,781100,782975,1
+Sprite,Foreground,Centre,"sb\tarrasque\54.png",320,240
+ M,0,782975,,315,355
+ S,0,782975,,0.23
+ F,0,782975,784850,1
+Sprite,Foreground,Centre,"sb\tarrasque\54.png",320,240
+ M,0,784850,,317,372
+ S,0,784850,,0.28
+ F,0,784850,786614,1
+Sprite,Foreground,Centre,"sb\tarrasque\54.png",320,240
+ M,0,786614,,330,388
+ S,0,786614,,0.33
+ F,0,786614,788246,1
+Sprite,Foreground,Centre,"sb\tarrasque\54.png",320,240
+ M,0,788246,,318,410
+ S,0,788246,,0.38
+ F,0,789833,790549,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\57.png",320,240
+ M,0,814704,,68,112
+ F,0,814704,815030,0,1
+ S,0,814704,820247,0.33,0.29
+ F,0,819921,820247,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\56.png",320,240
+ M,0,802965,,323,453
+ F,0,802965,803291,0,1
+ S,0,802965,811117,0.33,0.35
+ F,0,810791,811117,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,810791,,1.5
+ F,0,810791,812095,0,1
+ F,0,812095,813399,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\okku.png",320,240
+ S,0,821226,,0.36
+ F,0,821389,821552,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\sen.png",320,240
+ S,0,821552,,0.36
+ F,0,821715,821878,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\man.png",320,240
+ S,0,821878,,0.36
+ F,0,822041,822204,1,0
+Sprite,Foreground,Centre,"sb\Capas\White.png",320,240
+ S,0,822367,,1.52
+ F,0,822367,822530,0,1
+ F,0,822530,823834,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\58.png",320,240
+ M,0,844704,,543,426
+ S,0,844704,,0.19
+ F,0,844704,845030,0,1
+ F,0,861660,861986,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\58.png",320,240
+ M,0,853834,,543,426
+ F,0,853834,854812,1,0
+ S,0,853834,854812,0.19,0.32
+Sprite,Foreground,Centre,"sb\tarrasque\a.png",320,240
+ M,0,866878,,506,143
+ S,0,866878,,0.28
+ F,0,866878,867204,0,1
+ F,0,873399,873726,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\59.png",320,240
+ F,0,877312,877639,0,1
+ M,0,877312,885465,103,479,101,472
+ S,0,877312,885465,0.19,0.2
+ F,0,885139,885465,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\h.png",320,240
+ M,0,922965,,535,467
+ S,0,922965,,0.27
+ F,0,922965,923291,0,1
+ F,0,930139,930465,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\60.png",320,240
+ M,0,932095,,568,183
+ S,0,932095,,0.29
+ F,0,932095,932421,0,1
+ F,0,935356,935682,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\y.png",320,240
+ M,0,932095,,92,441
+ S,0,932095,,0.23
+ F,0,932095,932421,0,1
+ F,0,935356,935682,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\61.png",320,240
+ M,0,936986,,66,140
+ S,0,936986,,0.17
+ F,0,936986,937312,0,1
+ F,0,940247,940573,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\o.png",320,240
+ M,0,936986,,538,443
+ S,0,936986,,0.23
+ F,0,936986,937312,0,1
+ F,0,940247,940573,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\63.png",320,240
+ M,0,942204,,526,159
+ S,0,942204,,0.27
+ F,0,942204,942530,0,1
+ F,0,945791,946117,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\62.png",320,240
+ M,0,942204,,151,492
+ S,0,942204,,0.28
+ F,0,942204,942530,0,1
+ F,0,945791,946117,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\64.png",320,240
+ M,0,947421,,73,129
+ S,0,947421,,0.17
+ F,0,947421,947747,0,1
+ F,0,950682,951008,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\65.png",320,240
+ M,0,947421,,552,443
+ S,0,947421,,0.19
+ F,0,947421,947747,0,1
+ F,0,950682,951008,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\67.png",320,240
+ M,0,952639,,532,111
+ S,0,952639,,0.24
+ F,0,952639,952965,0,1
+ F,0,955573,955899,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\66.png",320,240
+ M,0,952639,,90,428
+ S,0,952639,,0.21
+ F,0,952639,952965,0,1
+ F,0,955573,955899,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\68.png",320,240
+ M,0,957530,,16,91
+ S,0,957530,,0.19
+ F,0,957530,957856,0,1
+ F,0,960791,961117,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\69.png",320,240
+ M,0,957530,,530,445
+ S,0,957530,,0.28
+ F,0,957530,957856,0,1
+ F,0,960791,961117,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\d.png",320,240
+ M,0,963073,,507,108
+ S,0,963073,,0.22
+ F,0,963073,963399,0,1
+ F,0,966660,966986,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\70.png",320,240
+ M,0,963073,,116,432.4129
+ S,0,963073,,0.21
+ F,0,963073,963399,0,1
+ F,0,966660,966986,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\71.png",320,240
+ M,0,967965,,90,122
+ S,0,967965,,0.23
+ F,0,967965,968291,0,1
+ F,0,971226,971552,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\72.png",320,240
+ M,0,967965,,507,432
+ S,0,967965,,0.24
+ F,0,967965,968291,0,1
+ F,0,971226,971552,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\73.png",320,240
+ M,0,1011008,,485,472
+ S,0,1011008,1011090,0.1,0.39
+ S,0,1011090,1011171,0.38,0.32
+ S,0,1011171,1015247,0.32,0.33
+ F,0,1014921,1015247,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\74.png",320,240
+ M,0,1016878,,84,439
+ S,0,1016878,,0.23
+ F,0,1016878,1017204,0,1
+ F,0,1018834,1019160,1,0
+Sprite,Foreground,Centre,"sb\Capas\Beatmap by.png",320,240
+ M,0,1028454,,424,363
+ S,0,1028454,,0.14
+ F,0,1028454,1028780,0,1
+ F,0,1032041,1032367,1,0
+Sprite,Foreground,Centre,"sb\Capas\there is an easter egg on the map.png",320,240
+ M,0,1028943,,474,410
+ S,0,1028943,,0.17
+ F,0,1028943,1029269,0,1
+ F,0,1032041,1032367,1,0
+Sprite,Foreground,Centre,"sb\Capas\thanks.png",320,240
+ S,0,1032693,,0.22
+ F,0,1032693,1033019,0,1
+ M,0,1032693,1040519,133,99,140,105
+ F,0,1040193,1040519,1,0
+Sprite,Foreground,Centre,"sb\Capas\erin erin.png",320,240
+ S,0,28588,,0.24
+ M,0,28588,29893,839,78,-238,69
+Sprite,Foreground,Centre,"sb\Capas\erin erin.png",320,240
+ S,0,28670,,0.24
+ M,0,28670,29893,770,112,-15,116
+Sprite,Foreground,Centre,"sb\Capas\ciani.png",320,240
+ S,0,28752,,0.26
+ M,0,28752,29893,689,154,-68,158
+Sprite,Foreground,Centre,"sb\Capas\mei vermei.png",320,240
+ S,0,28833,,0.27
+ M,0,28833,29893,694,199,-236,207
+Sprite,Foreground,Centre,"sb\Capas\rioxo.png",320,240
+ S,0,28915,,0.25
+ M,0,28915,29893,638,250,18,253
+Sprite,Foreground,Centre,"sb\Capas\mei vermei.png",320,240
+ S,0,29159,,0.28
+ M,0,29159,29893,789,199,144,206
+Sprite,Foreground,Centre,"sb\Capas\erin erin.png",320,240
+ S,0,29241,,0.24
+ M,0,29241,29893,640,72,96,69
+Sprite,Foreground,Centre,"sb\Capas\aah.png",320,240
+ S,0,121849,,0.19
+ F,0,121849,122012,0,1
+ M,0,121849,122828,174,179,189,179
+Sprite,Foreground,Centre,"sb\Capas\doushio.png",320,240
+ S,0,122175,,0.23
+ F,0,122175,122338,0,1
+ M,0,122175,122828,286,250,296,251
+Sprite,Foreground,Centre,"sb\wallpaper\idolmaster.png",320,240
+ M,0,531415,,415,340
+ S,0,531415,,0.2
+ F,0,531415,531578,0,1
+ F,0,532393,532719,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\idolmaster smile.png",320,240
+ M,0,532067,,498,385
+ S,0,532067,,0.24
+ F,0,532067,532230,0,1
+ F,0,532556,532882,1,0
+Sprite,Foreground,Centre,"sb\wallpaper\death end.png",320,240
+ F,0,665100,665350,0,1
+ S,0,665100,671100,0.5,0.57
+ F,0,671100,671600,1,0
+Sprite,Foreground,Centre,"sb\tarrasque\creditos.png",320,240
+ M,0,1095139,,158,244
+ S,0,1095139,,0.1
+ F,0,1095139,1095302,0,1
+ F,0,1096769,1100000,1
+Sprite,Foreground,Centre,"sb\wallpaper\credits.jpg",320,240
+ M,0,1095139,,461,231
+ S,0,1095139,,0.57
+ F,0,1095139,1095302,0,1
+ F,0,1096769,1100000,1
+Sprite,Foreground,Centre,"sb\tarrasque\75.png",320,240
+ M,0,1050628,,715,173
+ F,0,1050628,1050954,0,1
+ S,0,1050628,1085030,0.24,0.25
+ F,0,1084704,1085030,1,0
+Sprite,Foreground,Centre,"sb\Capas\erin erin.png",320,240
+ S,0,307882,,0.2
+ M,0,307882,310002,826,270,-190,270
+Sprite,Foreground,Centre,"sb\Capas\ciani.png",320,240
+ S,0,308045,,0.2
+ M,0,308045,309349,638,233,-92,233
+Sprite,Foreground,Centre,"sb\Capas\mei vermei.png",320,240
+ S,0,308127,,0.2
+ M,0,308127,309186,624,310,-76,310
+Sprite,Foreground,Centre,"sb\Capas\mei vermei.png",320,240
+ S,0,308534,,0.2
+ M,0,308534,309593,624,310,-76,310
+Sprite,Foreground,Centre,"sb\Capas\rioxo.png",320,240
+ S,0,308208,,0.2
+ M,0,308208,309512,639,192,-208,192
+Sprite,Foreground,Centre,"sb\Capas\verde.png",320,240
+ S,0,307882,,0.2
+ M,0,307882,309512,745,60,-119,60
+Sprite,Foreground,Centre,"sb\Capas\laranja.png",320,240
+ S,0,317991,,0.2
+ M,0,317991,320110,749,391,-182,391
+Sprite,Foreground,Centre,"sb\Capas\erin erin.png",320,240
+ S,0,318480,,0.2
+ M,0,318480,319295,654,231,-59,231
+Sprite,Foreground,Centre,"sb\Capas\erin erin.png",320,240
+ S,0,318806,,0.2
+ M,0,318806,319621,635,230,-59,230
+Sprite,Foreground,Centre,"sb\Capas\ciani.png",320,240
+ S,0,318806,,0.2
+ M,0,318806,319621,756,300,6,300
+Sprite,Foreground,Centre,"sb\Capas\vermei.png",320,240
+ S,0,318969,,0.2
+ M,0,318969,319784,674,50,-178,50
+Sprite,Foreground,Centre,"sb\tarrasque\r.png",320,240
+ M,0,199784,,318,404
+ F,0,199784,200110,0,1
+ S,0,199784,208507,0.19,0.2
+ F,0,208507,208833,1,0
+ S,0,208507,208915,0.2,0.1
+ R,0,208507,208915,0,4.6
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
