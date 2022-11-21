@@ -1,0 +1,154 @@
+[Variables]
+$gray=198,198,198
+$blue=107,212,254
+$green=103,153,95
+$brown=131,57,60
+
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,TopLeft,"anchor or anger.png",0,0
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"SB\bg.png",320,240
+ F,0,0,,1
+ C,0,0,,$gray
+ C,0,20969,21088,$gray,$blue
+ C,0,22636,22874,$blue,$gray
+ C,0,28588,28707,$gray,$blue
+ C,0,30493,,$blue
+ C,0,34302,35255,$blue,$green
+ C,0,38112,39064,$green,$brown
+ C,0,41921,42874,$brown,$blue
+ F,0,60969,,0
+Sprite,Foreground,Centre,"SB\circle.png",320,240
+ L,30493,4
+  F,0,0,952,0.5,0
+  S,0,0,952,0,1
+  F,0,3809,,0.5
+  S,0,3809,,0
+Sprite,Foreground,Centre,"SB\circle.png",320,240
+ L,30612,4
+  F,0,0,952,0.5,0
+  S,0,0,952,0,1
+  F,0,3809,,0.5
+  S,0,3809,,0
+Sprite,Foreground,Centre,"SB\circle.png",320,240
+ L,30731,4
+  F,0,0,952,0.5,0
+  S,0,0,952,0,1
+  F,0,3809,,0.5
+  S,0,3809,,0
+Sprite,Foreground,Centre,"SB\circle.png",320,240
+ L,30850,4
+  F,0,0,952,0.5,0
+  S,0,0,952,0,1
+  F,0,3809,,0.5
+  S,0,3809,,0
+Sprite,Foreground,Centre,"SB\circle.png",320,240
+ L,30969,4
+  F,0,0,952,0.5,0
+  S,0,0,952,0,1
+  F,0,3809,,0.5
+  S,0,3809,,0
+Sprite,Foreground,Centre,"SB\bw2.png",320,240
+ F,0,0,,1
+ M,0,0,7636,357,537,328,627
+ R,0,0,7636,-0.05,0
+ M,0,7636,7755,328,627,-295,736
+ R,0,7636,7755,0,-0.3681317
+ M,0,7755,15255,-295,736,-262,668
+ R,0,7755,22874,-0.3681317,0
+ M,0,15255,15374,-262,668,-76,-203
+ M,0,15374,22874,-76,-203,-15,-68
+ M,0,22874,22993,-15,-68,1030,335
+ R,0,22874,22993,0,-2.7
+ M,0,22993,30493,1030,335,914,327
+ R,0,22993,30493,-2.7,-2.6
+ F,0,30493,,0
+Sprite,Foreground,Centre,"SB\c.png",320,240
+ R,0,7755,22874,-0.3681317,0
+ M,0,15374,22874,-76,-203,-15,-68
+ F,0,20969,21088,0,1
+ F,0,22636,22874,1,0
+ M,0,22993,30493,1030,335,914,327
+ R,0,22993,30493,-2.7,-2.6
+ F,0,28588,28707,0,1
+ F,0,30493,,0
+Sprite,Foreground,Centre,"SB\ancher.png",320,240
+ F,0,30493,,1
+ S,0,30493,45731,1,0.7
+ R,0,30493,45731,-0.3,0
+ MY,0,30493,45731,200,240
+Animation,Foreground,TopRight,"SB\a3\a.png",320,240,41,42,LoopForever
+ F,0,45731,,1
+ P,0,45731,,H
+ R,0,45731,60969,0,2
+ F,0,60969,,0
+Animation,Foreground,TopLeft,"SB\a3\a.png",320,240,41,42,LoopForever
+ F,0,45731,,1
+ R,0,45731,60969,0,2
+ F,0,60969,,0
+Animation,Foreground,BottomRight,"SB\a3\a.png",320,240,41,42,LoopForever
+ F,0,45731,,1
+ R,0,45731,60969,0,2
+ F,0,60969,,0
+Animation,Foreground,BottomLeft,"SB\a3\a.png",320,240,41,42,LoopForever
+ F,0,45731,,1
+ P,0,45731,,H
+ R,0,45731,60969,0,2
+ F,0,60969,,0
+Sprite,Foreground,Centre,"SB\b.png",320,240
+ F,0,45731,,1
+ C,0,45731,,$blue
+ F,0,60969,,0
+Sprite,Foreground,BottomCentre,"SB\big.jpg",320,240
+ F,0,59064,60969,0,1
+ MY,0,59064,76207,840,480
+ S,2,60969,76207,0.7,0.53375
+Sprite,Foreground,Centre,"SB\bg.png",320,240
+ P,0,0,,A
+ F,0,29540,30493,0,1
+ F,0,30493,30969,1,0
+Sprite,Foreground,Centre,"SB\bg.png",320,240
+ C,0,45731,,$blue
+ F,0,45731,46445,1,0
+Sprite,Foreground,Centre,"SB\c1.jpg",320,240
+ F,0,76207,,1
+ S,0,76207,,0.667
+ F,0,77159,,0
+Sprite,Foreground,Centre,"SB\c2.jpg",320,240
+ F,0,77159,,1
+ S,0,77159,,0.667
+ F,0,78112,,0
+Sprite,Foreground,Centre,"SB\c3.jpg",320,240
+ F,0,78112,,1
+ S,0,78112,,0.667
+ F,0,79064,,0
+Sprite,Foreground,Centre,"SB\c4.jpg",320,240
+ F,0,79064,,1
+ S,0,79064,,0.667
+ F,0,80016,,0
+Sprite,Foreground,Centre,"SB\c5.jpg",320,240
+ F,0,80016,,1
+ S,0,80016,,0.667
+ F,0,80969,,0
+Sprite,Foreground,Centre,"SB\c6.jpg",320,240
+ F,0,80969,,1
+ S,0,80969,,0.667
+ F,0,81921,,0
+Sprite,Foreground,Centre,"SB\c7.jpg",320,240
+ F,0,81921,,1
+ S,0,81921,,0.667
+ F,0,82397,,0
+ F,0,82874,,1
+ F,0,83350,,0
+Sprite,Foreground,Centre,"SB\c8.jpg",320,240
+ F,0,82397,,1
+ S,0,82397,,0.667
+ F,0,82874,,0
+ F,0,83350,,1
+ F,0,83588,83707,1,0
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
