@@ -1,0 +1,107 @@
+osu file format v13
+
+[General]
+AudioFilename: kneesocks.mp3
+AudioLeadIn: 1000
+PreviewTime: 46525
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 2.7
+
+[Metadata]
+Title:Blade Dance
+TitleUnicode:精霊剣舞祭
+Artist:Ni-Sokkususu
+ArtistUnicode:にーそっくすす
+Creator:Silynn
+Version:Expert
+Source:精霊使いの剣舞
+Tags:kneesocks est seirei tsukai no blade dance of the elementalers
+BeatmapID:481650
+BeatmapSetID:203119
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:9
+ApproachRate:9
+SliderMultiplier:1.9
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+Video,0,"kneesocks.avi"
+0,0,"kneesocks.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,0,0,0
+
+[TimingPoints]
+320,320.855614973262,4,1,0,70,1,0
+15720,-133.333333333333,4,1,0,70,0,0
+20853,-100,4,1,0,70,0,0
+25987,-133.333333333333,4,1,0,70,0,0
+31121,-100,4,1,0,70,0,0
+36254,-133.333333333333,4,1,0,70,0,0
+41870,-100,4,1,0,70,0,0
+46522,-100,4,1,0,70,0,1
+64490,-200,4,1,0,70,0,1
+64810,-100,4,1,0,70,0,1
+67059,-100,4,1,0,70,0,0
+
+
+[Colours]
+Combo1 : 72,72,255
+Combo2 : 248,78,78
+Combo3 : 134,243,249
+Combo4 : 255,255,83
+Combo5 : 79,255,79
+
+[HitObjects]
+49,332,320,6,0,P|127:332|161:287,1,95
+204,257,640,1,0,0:0:0:0:
+193,162,801,1,0,0:0:0:0:
+403,269,961,6,0,P|327:272|294:315,1,95
+193,162,1282,1,0,0:0:0:0:
+368,336,1442,1,0,0:0:0:0:
+93,172,1603,6,0,L|141:68,1,95
+374,66,1924,1,0,0:0:0:0:
+193,162,2084,1,0,0:0:0:0:
+439,119,2245,6,0,P|349:142|320:120,1,95
+476,246,2565,1,0,0:0:0:0:
+476,246,2726,1,0,0:0:0:0:
+264,115,2886,6,0,P|197:78|153:89,1,95
+91,110,3207,1,0,0:0:0:0:
+40,190,3368,1,0,0:0:0:0:
+203,334,3528,5,0,0:0:0:0:
+42,284,3688,1,0,0:0:0:0:
+108,349,3849,1,0,0:0:0:0:
+125,190,4009,1,0,0:0:0:0:
+287,329,4170,6,0,P|241:257|196:250,1,95
+388,340,4491,1,0,0:0:0:0:
+470,293,4651,1,0,0:0:0:0:
+498,202,4811,2,0,P|419:176|378:268,2,190,0|0|0,0:0|0:0|0:0,0:0:0:0:
+457,92,5614,5,0,0:0:0:0:
+309,36,5774,1,0,0:0:0:0:
+291,203,5934,1,0,0:0:0:0:
+128,140,6095,5,0,0:0:0:0:
+358,119,6255,1,0,0:0:0:0:
+59,61,6416,1,0,0:0:0:0:
+207,288,6576,1,0,0:0:0:0:
+481,193,6737,6,0,L|356:205,1,95
+115,336,7057,1,0,0:0:0:0:
+291,203,7218,1,0,0:0:0:0:
