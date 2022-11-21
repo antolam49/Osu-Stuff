@@ -1,0 +1,63 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.MP3
+AudioLeadIn: 0
+PreviewTime: 21975
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.3
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.5
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Yuima-ru*World TVver.
+TitleUnicode:ゆいまーる☆わーるど ＴＶver.
+Artist:Ayase Rie
+ArtistUnicode:綾瀬 理恵
+Creator:exxify
+Version:Haitai but its one slider
+Source:はいたい七葉
+Tags:haitai nanafa yuimaru
+BeatmapID:1154606
+BeatmapSetID:544898
+
+[Difficulty]
+HPDrainRate:4
+CircleSize:3.8
+OverallDifficulty:6
+ApproachRate:7
+SliderMultiplier:1.79999990463257
+SliderTickRate:4
+
+[Events]
+//Background and Video events
+Video,0,"haitai.avi"
+0,0,"haitainanafa.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+726,333.333333333333,4,2,1,50,1,0
+22059,-100,4,2,1,50,0,1
+42725,-100,4,2,1,50,0,0
+
+
+[Colours]
+Combo1 : 255,128,64
+Combo2 : 0,128,0
+Combo3 : 0,128,192
+
+[HitObjects]
+104,59,726,6,0,L|117:161,1,89.9999952316285

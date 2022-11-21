@@ -1,0 +1,114 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"lyric\1.png",320,412
+ F,0,11596,14596,1
+Sprite,Foreground,Centre,"lyric\2.png",320,412
+ F,0,14596,18262,1
+Sprite,Foreground,Centre,"lyric\3.png",320,412
+ F,0,18262,20262,1
+Sprite,Foreground,Centre,"lyric\4.png",320,412
+ F,0,20262,22262,1
+Sprite,Foreground,Centre,"lyric\5.png",320,412
+ F,0,22262,25262,1
+Sprite,Foreground,Centre,"lyric\6.png",320,412
+ F,0,25262,28929,1
+Sprite,Foreground,Centre,"lyric\7.png",320,412
+ F,0,28929,,1
+ F,0,31596,,0
+ F,0,115595,,1
+ F,0,118262,,0
+Sprite,Foreground,Centre,"lyric\8.png",320,412
+ F,0,31586,,1
+ F,0,35586,,0
+ F,0,36919,,1
+ F,0,40919,,0
+ F,0,42252,,1
+ F,0,44752,,0
+ F,0,47586,,1
+ F,0,50252,,0
+ F,0,54252,,1
+ F,0,57585,,0
+ F,0,64918,,1
+ F,0,67585,,0
+ F,0,118252,,1
+ F,0,122252,,0
+ F,0,123585,,1
+ F,0,127585,,0
+ F,0,134252,,1
+ F,0,141585,,0
+ F,0,151585,,1
+ F,0,154918,,0
+ F,0,162251,,1
+ F,0,164918,,0
+Sprite,Foreground,Centre,"lyric\9.png",320,412
+ F,0,44752,47586,1
+Sprite,Foreground,Centre,"lyric\10.png",320,412
+ F,0,50252,,1
+ F,0,52252,53919,1,0
+Sprite,Foreground,Centre,"lyric\11.png",320,412
+ F,0,57585,,1
+ F,0,59585,,0
+ F,0,154918,,1
+ F,0,156918,,0
+Sprite,Foreground,Centre,"lyric\12.png",320,412
+ F,0,59585,,1
+ F,0,64918,,0
+ F,0,156918,,1
+ F,0,162251,,0
+Sprite,Foreground,Centre,"lyric\13.png",320,412
+ F,0,67585,,1
+ F,0,70918,,0
+ F,0,164918,,1
+ F,0,168251,,0
+Sprite,Foreground,Centre,"lyric\14.png",320,412
+ F,0,70918,,1
+ F,0,74918,,0
+ F,0,168251,,1
+ F,0,172251,,0
+Sprite,Foreground,Centre,"lyric\15.png",320,412
+ F,0,74918,,1
+ F,0,78918,,0
+ F,0,80252,,1
+ F,0,83585,,0
+ F,0,85585,,1
+ F,0,89585,,0
+ F,0,90918,,1
+ F,0,94252,,0
+ F,0,96252,,1
+ F,0,98252,,0
+ F,0,172251,,1
+ F,0,176251,,0
+ F,0,177585,,1
+ F,0,180918,,0
+ F,0,182918,,1
+ F,0,186918,,0
+ F,0,188251,,1
+ F,0,191585,,0
+ F,0,193585,,1
+ F,0,195585,,0
+Sprite,Foreground,Centre,"lyric\16.png",320,412
+ F,0,84252,,1
+ F,0,85585,,0
+ F,0,94918,,1
+ F,0,96252,,0
+ F,0,181585,,1
+ F,0,182918,,0
+ F,0,192251,,1
+ F,0,193585,,0
+Sprite,Foreground,Centre,"lyric\17.png",320,412
+ F,0,98252,104918,1
+Sprite,Foreground,Centre,"lyric\18.png",320,412
+ F,0,104918,108918,1
+Sprite,Foreground,Centre,"lyric\19.png",320,412
+ F,0,108918,112252,1
+Sprite,Foreground,Centre,"lyric\20.png",320,412
+ F,0,112252,115585,1
+Sprite,Foreground,Centre,"lyric\21.png",320,412
+ F,0,128918,131418,1
+Sprite,Foreground,Centre,"lyric\22.png",320,412
+ F,0,131418,134252,1
+//Storyboard Sound Samples

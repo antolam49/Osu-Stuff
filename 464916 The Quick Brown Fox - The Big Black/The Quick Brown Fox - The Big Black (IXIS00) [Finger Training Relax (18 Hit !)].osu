@@ -1,0 +1,81 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 1
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 2
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:The Big Black
+TitleUnicode:The Big Black
+Artist:The Quick Brown Fox
+ArtistUnicode:The Quick Brown Fox
+Creator:IXIS00
+Version:Finger Training Relax (1/8 Hit !)
+Source:
+Tags:
+BeatmapID:995354
+BeatmapSetID:464916
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:10
+SliderMultiplier:2.1
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"musica--eletronica_6961_1024x768.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+2954.38918825312,166.527893422148,4,1,0,0,1,0
+
+
+[Colours]
+Combo1 : 244,0,208
+Combo2 : 242,0,0
+Combo3 : 249,100,0
+Combo4 : 255,255,15
+Combo5 : 37,231,3
+Combo6 : 0,255,223
+Combo7 : 12,0,240
+
+[HitObjects]
+256,192,6951,5,0,0:0:0:0:
+256,192,7617,5,0,0:0:0:0:
+256,192,8283,5,0,0:0:0:0:
+256,192,8949,5,0,0:0:0:0:
+256,192,9615,5,0,0:0:0:0:
+256,192,10281,5,0,0:0:0:0:
+256,192,10947,5,0,0:0:0:0:
+256,192,11613,5,0,0:0:0:0:
+256,192,12279,5,0,0:0:0:0:
+256,192,12946,5,0,0:0:0:0:
+256,192,13612,5,0,0:0:0:0:
+256,192,14278,5,0,0:0:0:0:
+256,192,14944,5,0,0:0:0:0:
+256,192,15610,5,0,0:0:0:0:
+256,192,16276,5,0,0:0:0:0:
+256,192,16942,5,0,0:0:0:0:
+256,192,17692,5,0,0:0:0:0:
+256,192,18358,1,0,0:0:0:0:

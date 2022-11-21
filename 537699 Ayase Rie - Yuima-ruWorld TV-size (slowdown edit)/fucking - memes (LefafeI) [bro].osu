@@ -1,0 +1,68 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.3
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1.4
+
+[Metadata]
+Title:memes
+TitleUnicode:memes
+Artist:fucking
+ArtistUnicode:fucking
+Creator:LefafeI
+Version:bro
+Source:
+Tags:meme
+BeatmapID:1139321
+BeatmapSetID:537699
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+726,333.333333333333,4,1,0,50,1,0
+5726,370.37037037037,4,1,0,50,1,0
+11651,411.522633744856,4,1,0,50,1,0
+25231,457.247370827618,4,1,0,50,1,0
+26145,508.052634252909,4,1,0,80,1,1
+29193,564.502926947676,4,1,0,80,1,1
+30322,627.227966004244,4,1,0,80,1,1
+42239,696.912676841592,4,1,0,80,1,1
+42935,774.35341489856,4,1,0,80,1,1
+43709,860.387748078467,4,1,0,80,1,1
+44569,955.992479525828,4,1,0,80,1,1
+46480,1062.2101051588,4,1,0,80,1,1
+47542,1180.24273658949,4,1,0,80,1,1
+53443,1311.3894170874,4,1,0,80,1,1
+56065,1457.08873670407,4,1,0,80,1,1
+57522,1618.99622234215,4,1,0,80,1,1
+
+
+[HitObjects]

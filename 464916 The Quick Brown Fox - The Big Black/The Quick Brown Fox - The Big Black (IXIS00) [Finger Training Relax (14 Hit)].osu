@@ -1,0 +1,97 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 1
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 2
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:The Big Black
+TitleUnicode:The Big Black
+Artist:The Quick Brown Fox
+ArtistUnicode:The Quick Brown Fox
+Creator:IXIS00
+Version:Finger Training Relax (1/4 Hit)
+Source:
+Tags:
+BeatmapID:995353
+BeatmapSetID:464916
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:10
+SliderMultiplier:2.1
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"musica--eletronica_6961_1024x768.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+2954.38918825312,166.527893422148,4,1,0,0,1,0
+
+
+[Colours]
+Combo1 : 244,0,208
+Combo2 : 242,0,0
+Combo3 : 249,100,0
+Combo4 : 255,255,15
+Combo5 : 37,231,3
+Combo6 : 0,255,223
+Combo7 : 12,0,240
+
+[HitObjects]
+304,240,6951,5,0,0:0:0:0:
+304,240,7284,5,0,0:0:0:0:
+304,240,7616,5,0,0:0:0:0:
+304,240,7950,5,0,0:0:0:0:
+304,240,8283,5,0,0:0:0:0:
+304,240,8615,5,0,0:0:0:0:
+304,240,8949,5,0,0:0:0:0:
+304,240,9282,5,0,0:0:0:0:
+304,240,9614,5,0,0:0:0:0:
+304,240,9948,5,0,0:0:0:0:
+304,240,10281,5,0,0:0:0:0:
+304,240,10613,5,0,0:0:0:0:
+304,240,10947,5,0,0:0:0:0:
+304,240,11280,5,0,0:0:0:0:
+304,240,11612,5,0,0:0:0:0:
+304,240,11946,5,0,0:0:0:0:
+304,240,12279,5,0,0:0:0:0:
+304,240,12611,5,0,0:0:0:0:
+304,240,12946,5,0,0:0:0:0:
+304,240,13279,5,0,0:0:0:0:
+304,240,13611,5,0,0:0:0:0:
+304,240,13945,5,0,0:0:0:0:
+304,240,14278,5,0,0:0:0:0:
+304,240,14610,5,0,0:0:0:0:
+304,240,14944,5,0,0:0:0:0:
+304,240,15277,5,0,0:0:0:0:
+304,240,15609,5,0,0:0:0:0:
+304,240,15943,5,0,0:0:0:0:
+304,240,16276,5,0,0:0:0:0:
+304,240,16608,5,0,0:0:0:0:
+304,240,16942,5,0,0:0:0:0:
+304,240,17275,5,0,0:0:0:0:
+256,192,17692,5,0,0:0:0:0:
+256,192,18358,1,0,0:0:0:0:

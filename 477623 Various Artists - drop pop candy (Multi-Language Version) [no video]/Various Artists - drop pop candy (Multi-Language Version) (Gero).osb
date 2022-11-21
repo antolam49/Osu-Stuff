@@ -1,0 +1,118 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"SB/Nihongo.png",320,240
+ M,0,16252,,546,447
+ S,0,16252,,0.4133336
+ F,0,16252,16714,0,1
+ F,0,16714,23868,1,0.9580584
+Sprite,Foreground,Centre,"SB/Nihongo2.png",320,240
+ M,0,23406,,546,447
+ S,0,23406,,0.4133336
+ F,0,23406,23868,0,1
+ F,0,23868,30791,1
+Sprite,Foreground,Centre,"SB/Espanol Latino.png",320,240
+ M,0,30329,,546,447
+ S,0,30329,,0.4133336
+ F,0,30329,30791,0,1
+ F,0,30791,38291,1
+Sprite,Foreground,Centre,"SB/English.png",320,240
+ M,0,37829,,546,447
+ S,0,37829,,0.4133336
+ F,0,37829,38291,0,1
+ F,0,38291,,1
+ F,0,38291,,1
+ F,0,38291,47406,1
+Sprite,Foreground,Centre,"SB/Nihongo.png",320,240
+ M,0,46945,,546,447
+ S,0,46945,,0.4133336
+ F,0,46945,47407,0,1
+ F,0,47407,49252,1,0.9935065
+Sprite,Foreground,Centre,"SB/Nihongo2.png",320,240
+ M,0,48791,,546,447
+ S,0,48791,,0.4133336
+ F,0,48791,49253,0,1
+ F,0,49253,51098,1,0.9935065
+Sprite,Foreground,Centre,"SB/Espanol Latino.png",320,240
+ M,0,50637,,546,447
+ S,0,50637,,0.4133336
+ F,0,50637,51099,0,1
+ F,0,51099,,1
+ F,0,51099,53637,1,0.9935065
+Sprite,Foreground,Centre,"SB/Nihongo.png",320,240
+ M,0,53175,,546,447
+ S,0,53175,,0.4133336
+ F,0,53175,53637,0,1
+ F,0,53637,61021,1,0.9581053
+Sprite,Foreground,Centre,"SB/Nihongo2.png",320,240
+ M,0,60560,,546,447
+ S,0,60560,,0.4133336
+ F,0,60560,61022,0,1
+ F,0,61022,,1
+ F,0,61022,68423,1
+Sprite,Foreground,Centre,"SB/Espanol Latino.png",320,240
+ M,0,67945,,546,447
+ S,0,67945,,0.4133336
+ F,0,67945,68423,0,1
+ F,0,68423,75807,1,0.9895397
+Sprite,Foreground,Centre,"SB/English.png",320,240
+ M,0,75346,,546,447
+ S,0,75346,,0.4133336
+ F,0,75346,75808,0,1
+ F,0,75808,,1
+ F,0,75808,,1
+ F,0,75808,83290,1
+ F,0,83290,85021,1,0
+Sprite,Foreground,Centre,"SB/Espanol Latino.png",320,240
+ M,0,90098,,546,447
+ S,0,90098,,0.4133336
+ F,0,90098,90560,0,1
+ F,0,90560,,1
+ F,0,90560,104636,1,0.9935065
+Sprite,Foreground,Centre,"SB/English.png",320,240
+ M,0,104175,,546,447
+ S,0,104175,,0.4133336
+ F,0,104175,104636,0,1
+ F,0,104636,,1
+ F,0,104636,121252,1
+Sprite,Foreground,Centre,"SB/Nihongo2.png",320,240
+ M,0,120790,,546,447
+ S,0,120790,,0.4133336
+ F,0,120790,121252,0,1
+ F,0,121252,142252,1
+Sprite,Foreground,Centre,"SB/Nihongo.png",320,240
+ M,0,141790,,546,447
+ S,0,141790,,0.4133336
+ F,0,141790,142252,0,1
+ F,0,142252,158175,1
+Sprite,Foreground,Centre,"SB/English.png",320,240
+ M,0,157713,,546,447
+ S,0,157713,,0.4133336
+ F,0,157713,158175,0,1
+ F,0,158175,173636,1
+Sprite,Foreground,Centre,"SB/Espanol Latino.png",320,240
+ M,0,173175,,546,447
+ S,0,173175,,0.4133336
+ F,0,173175,173637,0,1
+ F,0,173637,,1
+ F,0,173637,188405,1,0.9935065
+Sprite,Foreground,Centre,"SB/English.png",320,240
+ M,0,187944,,546,447
+ S,0,187944,,0.4133336
+ F,0,187944,188406,0,1
+ F,0,188406,205252,1
+Sprite,Foreground,Centre,"SB/Nihongo.png",320,240
+ M,0,204790,,546,447
+ S,0,204790,,0.4133336
+ F,0,204790,205252,0,1
+ F,0,205252,208482,1
+Sprite,Foreground,Centre,"SB/Nihongo2.png",320,240
+ M,0,208021,,546,447
+ S,0,208021,,0.4133336
+ F,0,208021,208483,0,1
+ F,0,208483,210338,1,0.9978355
+ F,0,210338,212405,0.9978355,0
+//Storyboard Sound Samples

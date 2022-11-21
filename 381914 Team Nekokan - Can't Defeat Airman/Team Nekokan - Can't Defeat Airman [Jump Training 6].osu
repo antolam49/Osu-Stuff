@@ -1,0 +1,81 @@
+osu file format v14
+
+[General]
+AudioFilename: Can't Defeat Airman.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 8
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Can't Defeat Airman
+TitleUnicode:Can't Defeat Airman
+Artist:Team Nekokan
+ArtistUnicode:Team Nekokan
+Creator:
+Version:Jump Training 6
+Source:mega man
+Tags:airman
+BeatmapID:835359
+BeatmapSetID:381914
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:10
+SliderMultiplier:2
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"airman.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+3660,300,4,2,0,100,1,0
+4185,-100,4,1,0,49,0,0
+4860,-100,4,2,0,100,0,0
+100935,-100,4,2,0,100,0,0
+127260,-200,4,2,0,100,0,0
+129660,-100,4,2,0,100,0,0
+172710,-66.6666666666667,4,2,0,100,0,0
+186660,-100,4,2,0,100,0,0
+201660,-100,4,1,0,100,0,0
+
+
+[HitObjects]
+216,320,135810,5,0,0:0:0:0:
+296,320,135960,1,2,0:0:0:0:
+144,320,136110,1,0,0:0:0:0:
+368,320,136260,1,2,0:0:0:0:
+72,320,136410,1,0,0:0:0:0:
+440,320,136560,1,2,0:0:0:0:
+0,320,136710,1,0,0:0:0:0:
+512,320,136860,1,6,0:0:0:0:
+72,320,137010,5,0,0:0:0:0:
+440,320,137160,1,6,0:0:0:0:
+144,320,137310,1,0,0:0:0:0:
+368,320,137460,1,6,0:0:0:0:
+216,320,137610,1,0,0:0:0:0:
+296,320,137760,1,6,0:0:0:0:
+256,256,137910,1,0,0:0:0:0:
+296,192,138060,1,6,0:0:0:0:
+216,192,138210,1,0,0:0:0:0:
+256,128,138360,1,0,0:0:0:0:
+256,56,138510,1,4,0:0:0:0:
