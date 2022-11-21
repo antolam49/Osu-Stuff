@@ -1,0 +1,14 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,Centre,"acceleratorbg2.jpg",320,240
+ S,0,-1,284943,0.625
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"acceleratorbg2.jpg",320,240
+ F,2,113623,114429,1,0
+ S,2,113623,114429,0.625,0.9
+ F,2,154913,155719,1,0
+ S,2,154913,155719,0.625,0.9
+//Storyboard Sound Samples
